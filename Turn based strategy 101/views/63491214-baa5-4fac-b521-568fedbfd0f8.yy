@@ -1,0 +1,30 @@
+{
+    "id": "63491214-baa5-4fac-b521-568fedbfd0f8",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "63491214-baa5-4fac-b521-568fedbfd0f8",
+    "children": [
+        "5fba713a-ff6d-4184-a984-d2cba8766d91",
+        "cb301005-b973-495c-a903-9a0dc5201309",
+        "4efca329-ac40-4ad9-94c5-bae55e8caf31",
+        "70548d7d-006e-4a74-a32e-9de27c32bc5f",
+        "17524a2a-7fe3-4bc8-aeba-f4117edf509c",
+        "d364b889-2bb5-4302-832e-eee2459f2640",
+        "9273a6ed-9675-48bc-8a70-096a3b61885f",
+        "4cbd79b6-20f6-4c2d-9d08-cb94f28da006",
+        "af911333-362a-421b-b459-f765dffcefbf",
+        "c9ed7807-9a69-4542-b467-a69e659f90ac",
+        "0b1eefd7-0b2f-4507-96b9-0f1b17722724",
+        "d7d4930a-0454-45a0-a696-fb7a117a006b",
+        "73e04c47-68ba-4b0f-b19b-f5cd590c90e2",
+        "91a1f617-07b7-4ef7-a39a-ce8f63744613",
+        "bd91b10d-44b7-4bfa-9bda-cffce9310475",
+        "989a263a-84a8-4766-b604-ac5a82f028fb",
+        "ae84c3cb-df70-49d6-a970-34db6a1a2427",
+        "9baf9c14-452f-4680-a97c-366cb4fdfee9"
+    ],
+    "filterType": "GMObject",
+    "folderName": "effects and UI",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
